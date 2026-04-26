@@ -1,2 +1,2 @@
 # repo06
-repo06 - is repository name......$**123
+repo06 - is repository name......$**123-
